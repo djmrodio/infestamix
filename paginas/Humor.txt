@@ -1,0 +1,210 @@
+<item>
+<title>[COLOR coral]SEMENTERIO PALPITO 1[/COLOR]</title>
+<utube>7mEWyhkLDYQ</utube>
+<thumbnail>http://1.bp.blogspot.com/-4yznXqnOjoE/Ta5W7S3f1KI/AAAAAAAAALk/X0ZDDhYALZ4/s1600/Cementerio_Pal_Pito_-_Edicion_De_.jpg</thumbnail>
+<fanart>http://i.vimeocdn.com/video/388827079_1280x720.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR coral]SEMENTERIO PALPITO 2[/COLOR]</title>
+<utube>cS2_8OsWRLQ</utube>
+<thumbnail>http://67.media.tumblr.com/f74505611c1cd422cda53bc8ad9b3168/tumblr_np27j6giFF1tc5olbo1_1280.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/kU6-7fS9B5g/maxresdefault.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR coral]SEMENTERIO PALPITO 3[/COLOR]</title>
+<utube>FLofKhskDog</utube>
+<thumbnail>http://2.bp.blogspot.com/-Dgnr-sRhUTM/Ta5Wot7H3LI/AAAAAAAAALU/aP9vjBSNEJE/s1600/Cementerio_Palpito_3_.jpg</thumbnail>
+<fanart>http://i.vimeocdn.com/video/388827079_1280x720.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR coral]SEMENTERIO PALPITO 4[/COLOR]</title>
+<utube>wmJmihYVf-M </utube>
+<thumbnail>http://2.bp.blogspot.com/-tnFv20gb0vg/Ta5WeORx6MI/AAAAAAAAALM/1v1ampxdXZM/s1600/Cementerio_Palpito_4_.jpg</thumbnail>
+<fanart>http://i.vimeocdn.com/video/388827079_1280x720.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR coral]SEMENTERIO PALPITO 5[/COLOR]</title>
+<utube>cGK1C_crgBw</utube>
+<thumbnail>http://2.bp.blogspot.com/-TnXoKXuwsaw/Ta5WKhwPr5I/AAAAAAAAALE/kl-VL8CA4jk/s1600/Cementerio_Palpito_5.jpg</thumbnail>
+<fanart>http://i.vimeocdn.com/video/388827079_1280x720.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR coral]SEMENTERIO PALPITO 6[/COLOR]</title>
+<utube>Dm_e0ZKTsb8</utube>
+<thumbnail>http://2.bp.blogspot.com/-BLcI3jBvlFI/Ta5V09zKzSI/AAAAAAAAAK8/9gAj8k1J--s/s1600/Cementerio_Palpito_6.jpg</thumbnail>
+<fanart>http://i.vimeocdn.com/video/388827079_1280x720.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR coral]SEMENTERIO PALPITO 7[/COLOR]</title>
+<utube>ej3-HvyYGzw</utube>
+<thumbnail>http://2.bp.blogspot.com/-Lrq26Bgvj_g/UbOHegE4qsI/AAAAAAAAEbw/geDaBEGDAbE/s1600/Cementerio_Palpito_7.jpg</thumbnail>
+<fanart>http://i.vimeocdn.com/video/388827079_1280x720.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR coral]SEMENTERIO PALPITO 8[/COLOR]</title>
+<utube>9lnI8Sg1HG4</utube>
+<thumbnail>http://2.bp.blogspot.com/-fIIJ4-TN-Zk/Ta5UxFPxwqI/AAAAAAAAAKs/KdX1wK-s9bc/s1600/Cementerio_Palpito_8.jpg</thumbnail>
+<fanart>http://i.vimeocdn.com/video/388827079_1280x720.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR coral]SEMENTERIO PALPITO 9[/COLOR]</title>
+<utube>s0seXmXrmiU</utube>
+<thumbnail>http://1.bp.blogspot.com/-4yznXqnOjoE/Ta5W7S3f1KI/AAAAAAAAALk/X0ZDDhYALZ4/s1600/Cementerio_Pal_Pito_-_Edicion_De_.jpg</thumbnail>
+<fanart>http://i.vimeocdn.com/video/388827079_1280x720.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR coral]DINAMITA SHOW 1996 PRIMERA NOCHE[/COLOR]</title>
+<utube>Q63iT8qEbwQ</utube>
+<thumbnail>http://1.bp.blogspot.com/-4yznXqnOjoE/Ta5W7S3f1KI/AAAAAAAAALk/X0ZDDhYALZ4/s1600/Cementerio_Pal_Pito_-_Edicion_De_.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Q63iT8qEbwQ/maxresdefault.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR coral]DINAMITA SHOW 1996 SEGUNDA NOCHE[/COLOR]</title>
+<utube>eYvnVsZuYDQ</utube>
+<thumbnail>http://1.bp.blogspot.com/-4yznXqnOjoE/Ta5W7S3f1KI/AAAAAAAAALk/X0ZDDhYALZ4/s1600/Cementerio_Pal_Pito_-_Edicion_De_.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/eYvnVsZuYDQ/hqdefault.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR coral]DINAMITA SHOW 2009[/COLOR]</title>
+<utube>KadpirAKiLQ</utube>
+<thumbnail>http://1.bp.blogspot.com/-4yznXqnOjoE/Ta5W7S3f1KI/AAAAAAAAALk/X0ZDDhYALZ4/s1600/Cementerio_Pal_Pito_-_Edicion_De_.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/0qJnVBGzgnA/maxresdefault.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR coral]DINAMITA SHOW 2012[/COLOR]</title>
+<utube>NJ6nR_WOXw0</utube>
+<thumbnail>http://1.bp.blogspot.com/-4yznXqnOjoE/Ta5W7S3f1KI/AAAAAAAAALk/X0ZDDhYALZ4/s1600/Cementerio_Pal_Pito_-_Edicion_De_.jpg</thumbnail>
+<fanart>http://static.diario.latercera.com/201202/1478394.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR coral]DINAMITA SHOW 2015[/COLOR]</title>
+<utube>KadpirAKiLQ</utube>
+<thumbnail>http://1.bp.blogspot.com/-4yznXqnOjoE/Ta5W7S3f1KI/AAAAAAAAALk/X0ZDDhYALZ4/s1600/Cementerio_Pal_Pito_-_Edicion_De_.jpg</thumbnail>
+<fanart>http://static.t13.cl/images/sizes/1200x675/1424667074_dinamita-show.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR coral]ATLETAS DE LA RISA[/COLOR][COLOR lime]Volviendo Al paseo Ahumada</title>
+<utube>DCKkBsgdTSs</utube>
+<thumbnail>http://3.bp.blogspot.com/_yeXAUQ7oy48/R9z5fu9ySUI/AAAAAAAAAaw/bYf1Kj4UXYI/s320/volver.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/MUvakLXl8Ks/maxresdefault.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR coral]ATLETAS DE LA RISA[/COLOR][COLOR lime]Volviendo Al paseo Ahumada</title>
+<utube>SoEjofbRB-g</utube>
+<thumbnail>http://3.bp.blogspot.com/_yeXAUQ7oy48/R9z5fu9ySUI/AAAAAAAAAaw/bYf1Kj4UXYI/s320/volver.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/MUvakLXl8Ks/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR coral]ATLETAS DE LA RISA[/COLOR][COLOR lime]Viña 2013</title>
+<utube>E2iUUUOtwyo</utube>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/8/87/Logo_Vi%C3%B1a_2013.jpg</thumbnail>
+<fanart>http://static.t13.cl/images/sizes/1440x692/mgr_630_atletas_risa.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR coral]ATLETAS DE LA RISA[/COLOR][COLOR lime]Teleton 2015</title>
+<utube>NgLcDzINp88</utube>
+<thumbnail>http://www.diariociudad.com.pe/sites/default/files/fotos/teleton.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/NgLcDzINp88/maxresdefault.jpg</fanart>
+</item>
+
+https://www.youtube.com/watch?v=erhpWmJO9UM
+
+<item>
+<title>[COLOR coral]KRAMMER[/COLOR][COLOR lime]Festival de Viña 2008</title>
+<utube>erhpWmJO9UM</utube>
+<thumbnail>http://regionvisual.com/wp-content/uploads/2008/01/vina2008logo.jpg</thumbnail>
+<fanart>http://www.24horas.cl/incoming/kramerjpg-1876260/ALTERNATES/w1024h768/kramer.JPG</fanart>
+</item>
+
+https://www.youtube.com/watch?v=
+
+<item>
+<title>[COLOR coral]KRAMMER[/COLOR][COLOR lime]Teleton 2014</title>
+<utube>I8E4M83uB2s</utube>
+<thumbnail>http://www.diariociudad.com.pe/sites/default/files/fotos/teleton.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/NgLcDzINp88/maxresdefault.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR coral]BOMBO FICA [/COLOR][COLOR lime]Viña 2012</title>
+<utube>l76uaoaPBGA</utube>
+<thumbnail>http://www.diariolaregion.cl/portal/wp-content/uploads/2013/03/magazine_18-286x300.jpg</thumbnail>
+<fanart>http://www.cooperativa.cl/noticias/site/artic/20130116/imag/foto_0000000120130116130456.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR coral]COCO LEGRAND [/COLOR][COLOR lime]Viña 2013</title>
+<utube>QGc_62WMJUM</utube>
+<thumbnail>http://www.diariolaregion.cl/portal/wp-content/uploads/2013/03/magazine_18-286x300.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/al_diablo_con_todo-576910720-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR coral]NATALIA VALDEVENITO [/COLOR][COLOR lime]Viña 2016</title>
+<utube>RnDDM1TjD4E</utube>
+<thumbnail>http://www.diariolaregion.cl/portal/wp-content/uploads/2013/03/magazine_18-286x300.jpg</thumbnail>
+<fanart>http://www.carolina.cl/static/2016/02/A_UNO_641494_25ed4.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR coral]EDO CAROE [/COLOR][COLOR lime]Viña 2016</title>
+<utube>Ne75D2ixqXQ</utube>
+<thumbnail>http://www.diariolaregion.cl/portal/wp-content/uploads/2013/03/magazine_18-286x300.jpg</thumbnail>
+<fanart>http://img.soy-chile.cl/Fotos/2016/02/22/file_20160222112739.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR coral]RODRIGO GONZALEZ [/COLOR][COLOR lime]Viña 2016</title>
+<utube>GOfwNsHJFHU</utube>
+<thumbnail>http://www.diariolaregion.cl/portal/wp-content/uploads/2013/03/magazine_18-286x300.jpg</thumbnail>
+<fanart>http://www.publimetro.cl/_internal/gxml!0/r0dc21o2f3vste5s7ezej9x3a10rp3w$l3malcqiepqv8ffwcxbin5qquui6zmw/foto_0000000520160224000324.jpeg</fanart>
+</item>

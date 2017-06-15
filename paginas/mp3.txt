@@ -1,0 +1,71 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+
+<channel>
+<name>80´S Mix</name>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</thumbnail>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/djmrodio/MP3/80/80mp3.txt</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</fanart>
+<info>Un excelente mix de cumbia Chilena para Bailar..... contactate para tus pedidos personales +569 440</info>
+</channel>
+
+
+
+<channel>
+<name>Cumbia Mix</name>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</thumbnail>
+<externallink>https://goo.gl/vBnqgt</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</fanart>
+<info>Un excelente mix de cumbia Chilena para Bailar..... contactate para tus pedidos personales +569 440</info>
+</channel>
+
+
+<channel>
+<name>Elektro Mix</name>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descarga/ELEKTROMIX1.png</thumbnail>
+<externallink>https://goo.gl/H9DrKd</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/ELEKTROMIX1.png</fanart>
+<info>Uno de los Mix Elektronico más buenos que he escuchado, la mejor musica electronica con un perfecto Saxophone</info>
+</channel>
+
+
+<channel>
+<name>Fiesta Mix</name>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descarga/FIESTAMIX1.png</thumbnail>
+<externallink>https://goo.gl/CZuHKv</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/FIESTAMIX1.png</fanart>
+<info>Mezclamos todos los ritmos, disfruta de estos mix exclusivo para tus fiestas.</info>
+</channel>
+
+<channel>
+<name>Euro Mix </name>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</thumbnail>
+<externallink>https://goo.gl/9xfE7d</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</fanart>
+<info>Mezclamos todos los ritmos, disfruta de estos mix exclusivo para tus fiestas.</info>
+</channel>
+
+
+<channel>
+<name>Rock Classic Mix </name>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</thumbnail>
+<externallink>https://goo.gl/ectyUJ</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</fanart>
+<info>Mezclamos todos los ritmos, disfruta de estos mix exclusivo para tus fiestas.</info>
+</channel>
+
+
+
+
+<channel>
+<name>Rock LatinoMix </name>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</thumbnail>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/djmrodio/MP3/Rock%20Latino%20Mix/ROCKLATINOMP3.txt</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</fanart>
+<info>Mezclamos todos los ritmos, disfruta de estos mix exclusivo para tus fiestas.</info>
+</channel>
+
+
+<channels>

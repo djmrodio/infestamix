@@ -1,0 +1,16 @@
+<item>
+<title>TV PREMIUM</title>
+<link>ingnora.me</link>
+<externallink>http://pasteleriadulcesmomentos.cl/m3u/tv/tvn.m3u</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>CDF PREMIUM</title>
+	<sportsdevil>http://www.iguide.to/embed/29624&width=640&height=480&autoplay=true</sportsdevil>
+	<referer>http://www.iguide.to</referer>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descargas1/cdfpremium.png</thumbnail>
+</item>

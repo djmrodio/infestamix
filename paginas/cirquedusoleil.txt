@@ -1,0 +1,23 @@
+<item>
+<title>[COLOR coral]CIRQUE DU SOLEIL[/COLOR]</title>
+<utube>GIHc629ABnE</utube>
+<thumbnail>http://2.bp.blogspot.com/-cSSU2Xs_Ovs/USqmepUSB_I/AAAAAAAAH3M/L3Sh8lO-OsA/s1600/Fiche_3dWorldAway-bg.jpg</thumbnail>
+<fanart>http://cinemabh.com/wp-content/uploads/2013/02/Cirque-du-Soleil-Outros-Mundos.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR coral]CIRQUE DU SOLEIL[/COLOR]</title>
+<utube>5ZCl-kw_0eU</utube>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/236x/f5/f6/c1/f5f6c1078f99677d3b5346ee320ac5ea.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-g-ckBENZ4Ls/UMkchp4OPLI/AAAAAAAAE4w/bNwAj-tsw_4/s1600/CDS-FF-002.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR coral]CIRQUE DU SOLEIL[/COLOR]</title>
+<link>https://m.vk.com/video362795277_456239101?list=afde74cef6329adf3e&from=wall362795277_65</link>
+<thumbnail>http://images6.fanpop.com/image/photos/34500000/Cirque-du-soleil-Alegria-cirque-du-soleil-34580447-1500-1500.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/68483tVx0eA/maxresdefault.jpg</fanart>
+</item>

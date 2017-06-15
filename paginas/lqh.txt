@@ -1,0 +1,158 @@
+<item>
+<title>[COLOR coral]SAN PEDRO DE ATACAMA[/COLOR]</title>
+<link>http://vod.hls.http.13.ztreaming.com/13vod/_definst_/mp4:13vod/streaming.13.cl/public_html/2016/11/04/lqh5.mp4/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/180px-Canal13Chile_Vectorial.svg.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/cNAig6dT8MA/maxresdefault.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR coral]TIERRA DEL FUEGO[/COLOR]</title>
+<link>http://vod.hls.http.13.ztreaming.com/13vod/_definst_/mp4:13vod/streaming.13.cl/public_html/2016/08/03/lugares_porvenir.mp4/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/180px-Canal13Chile_Vectorial.svg.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/cNAig6dT8MA/maxresdefault.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR coral]ISLA DE SANTA MARIA[/COLOR]</title>
+<link>http://vod.hls.http.13.ztreaming.com/13vod/_definst_/mp4:13vod/streaming.13.cl/public_html/2016/10/28/lugares_isla.mp4/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/180px-Canal13Chile_Vectorial.svg.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/cNAig6dT8MA/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR coral]ARAUCO Y LA FUERZA DE SUS MUJERES[/COLOR]</title>
+<link>http://vod.hls.http.13.ztreaming.com/13vod/_definst_/mp4:13vod/streaming.13.cl/public_html/2016/10/21/LQH%20ARAUCO%20MIX%20Vinternet.mp4/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/180px-Canal13Chile_Vectorial.svg.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/cNAig6dT8MA/maxresdefault.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR coral]CHAIHUIN VALDIVIA[/COLOR]</title>
+<link>http://vod.hls.http.13.ztreaming.com/13vod/_definst_/mp4:13vod/streaming.13.cl/public_html/2016/10/14/lugares_cahuin.mp4/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/180px-Canal13Chile_Vectorial.svg.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/cNAig6dT8MA/maxresdefault.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR coral]LOS MISTERIOS DE SALAMANCA[/COLOR]</title>
+<link>http://vod.hls.http.13.ztreaming.com/13vod/_definst_/mp4:13vod/streaming.13.cl/public_html/2016/10/14/salamanca.mp4/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/180px-Canal13Chile_Vectorial.svg.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/cNAig6dT8MA/maxresdefault.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR coral]LOS ENCANTOS DE CHILOE[/COLOR]</title>
+<link>http://vod.hls.http.13.ztreaming.com/13vod/_definst_/mp4:13vod/streaming.13.cl/public_html/2016/10/07/lugares_08.mp4/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/180px-Canal13Chile_Vectorial.svg.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/cNAig6dT8MA/maxresdefault.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR coral]LA CORDILLERA DE NAHUELBUTA[/COLOR]</title>
+<link>http://vod.hls.http.13.ztreaming.com/13vod/_definst_/mp4:13vod/streaming.13.cl/public_html/2016/09/28/lugares_1.mp4/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/180px-Canal13Chile_Vectorial.svg.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/cNAig6dT8MA/maxresdefault.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR coral]EL LAGO RUPANCO[/COLOR]</title>
+<link>http://vod.hls.http.13.ztreaming.com/13vod/_definst_/mp4:13vod/streaming.13.cl/public_html/2016/09/22/lugares.mp4/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/180px-Canal13Chile_Vectorial.svg.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/cNAig6dT8MA/maxresdefault.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR coral]MARCHIHUE[/COLOR]</title>
+<link>http://vod.hls.http.13.ztreaming.com/13vod/_definst_/mp4:13vod/streaming.13.cl/public_html/2016/09/15/lugares_que_hablan_20160917_marchihue.mp4/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/180px-Canal13Chile_Vectorial.svg.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/cNAig6dT8MA/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR coral]CHAÑARAL[/COLOR]</title>
+<link>http://vod.hls.http.13.ztreaming.com/13vod/_definst_/mp4:13vod/streaming.13.cl/public_html/2016/09/08/lugares.mp4/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/180px-Canal13Chile_Vectorial.svg.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/cNAig6dT8MA/maxresdefault.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR coral]MELIÉUCO[/COLOR]</title>
+<link>http://vod.hls.http.13.ztreaming.com/13vod/_definst_/mp4:13vod/streaming.13.cl/public_html/2016/09/02/lugares_03.mp4/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/180px-Canal13Chile_Vectorial.svg.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/cNAig6dT8MA/maxresdefault.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR coral]LA ANTARTICA[/COLOR]</title>
+<link>http://vod.hls.http.13.ztreaming.com/13vod/_definst_/mp4:13vod/streaming.13.cl/public_html/2016/08/26/lugares.mp4/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/180px-Canal13Chile_Vectorial.svg.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/cNAig6dT8MA/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR coral]ARCHIPIELAGO DE CALBUCO[/COLOR]</title>
+<link>http://vod.hls.http.13.ztreaming.com/13vod/_definst_/mp4:13vod/streaming.13.cl/public_html/2016/08/19/calbuco.mp4/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/180px-Canal13Chile_Vectorial.svg.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/cNAig6dT8MA/maxresdefault.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR coral]VENDIMIA EN EL OASIS DE CODPA[/COLOR]</title>
+<link>http://vod.hls.http.13.ztreaming.com/13vod/_definst_/mp4:13vod/streaming.13.cl/public_html/2016/08/17/lugares_arica.mp4/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/180px-Canal13Chile_Vectorial.svg.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/cNAig6dT8MA/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR coral]ALTO DEL LOA[/COLOR]</title>
+<link>http://vod.hls.http.13.ztreaming.com/13vod/_definst_/mp4:13vod/streaming.13.cl/public_html/2016/07/28/lugares_calama.mp4/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/180px-Canal13Chile_Vectorial.svg.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/cNAig6dT8MA/maxresdefault.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR coral]MEHUIN 100 AÑOS[/COLOR]</title>
+<link>http://vod.hls.http.13.ztreaming.com/13vod/_definst_/mp4:13vod/streaming.13.cl/public_html/2016/07/22/LQH%20MEHUIN.mp4/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/180px-Canal13Chile_Vectorial.svg.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/cNAig6dT8MA/maxresdefault.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR coral]VOLCAN ANTUCO[/COLOR]</title>
+<link>http://vod.hls.http.13.ztreaming.com/13vod/_definst_/mp4:13vod/streaming.13.cl/public_html/2016/07/13/MASTER%20LAGUNA%20EL%20LAJA%20vInternet.mp4/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/180px-Canal13Chile_Vectorial.svg.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/cNAig6dT8MA/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR coral]RELONCAVI[/COLOR]</title>
+<link>http://vod.hls.http.13.ztreaming.com/13vod/_definst_/mp4:13vod/streaming.13.cl/public_html/2016/07/08/cochamo.mp4/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/180px-Canal13Chile_Vectorial.svg.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/cNAig6dT8MA/maxresdefault.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR coral]SAN VICENTE[/COLOR]</title>
+<link>http://vod.hls.http.13.ztreaming.com/13vod/_definst_/mp4:13vod/streaming.13.cl/public_html/2016/06/23/lugares_cap.mp4/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/180px-Canal13Chile_Vectorial.svg.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/cNAig6dT8MA/maxresdefault.jpg</fanart>
+</item>

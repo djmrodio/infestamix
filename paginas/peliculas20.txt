@@ -1,0 +1,48 @@
+
+
+<item>
+<title>[COLOR lime][B][ Pinchas Aqui][/B][/COLOR]    [COLOR lightgreen][B]BUSCAR[/B] [/COLOR][COLOR skyblue]PELICULAS 1[/COLOR] </title>
+<link>http://ignora.me</link>
+<externallink>http://adryanlist.org/adryan/buscarpelicula.xml</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</fanart>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descargas1/PELICULAS.png</thumbnail>
+</item>
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Seccion 1[/B] [/COLOR][COLOR skyblue]Estrenos[/COLOR] </title>
+<link>http://ignora.me</link>
+<externallink>http://pasteleriadulcesmomentos.cl/pruebas/peliculasfiestamix.m3u</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</fanart>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descargas1/PELICULAS.png</thumbnail>
+<info></info>
+</item>
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Seccion 2[/B] [/COLOR][COLOR skyblue]HD[/COLOR] </title>
+<link>http://ignora.me</link>
+<externallink>http://pasteleriadulcesmomentos.cl/Peliculas/seccion2.m3u</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</fanart>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descargas1/PELICULAS.png</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Seccion 3[/B] [/COLOR][COLOR skyblue]3D[/COLOR] </title>
+<link>http://ignora.me</link>
+<externallink>http://pasteleriadulcesmomentos.cl/Peliculas/3D.m3u</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</fanart>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descargas1/PELICULAS.png</thumbnail>
+<info></info>
+</item>
+
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Seccion 4[/B] [/COLOR][COLOR skyblue]4K[/COLOR] </title>
+<link>http://ignora.me</link>
+<externallink>http://pasteleriadulcesmomentos.cl/Peliculas/4k.m3u</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</fanart>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descargas1/PELICULAS.png</thumbnail>
+<info></info>
+</item>

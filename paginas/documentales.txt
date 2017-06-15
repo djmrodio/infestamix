@@ -1,0 +1,169 @@
+<item>
+<title>[COLOR white]*[/COLOR][COLOR deepskyblue]  [B]Documentales[/B][/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</thumbnail>
+<fanart>http://pasteleriadulcesmomentos.cl/descargas1/wallprogram.jpg</fanart>
+<externallink>https://www.dropbox.com/s/q8w4hva4mx3z0zq/indice%20youtube.xml?dl=1</externallink>
+</item>
+
+<item>
+<title>Documentales </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR snow][makelist.param3][/COLOR]</title>
+<link>$doregex[get-rtmp]</link>
+<thumbnail>http://www.dw.com[makelist.param2]</thumbnail>
+
+]]></listrepeat>
+<expres><![CDATA[<div class="news searchres hov".*?\n.*?a href="(.*?)".*?\n.*?\n.*?src="(.*?)".*?\n.*?h2>(.*)]]></expres>
+<page>http://www.dw.com/es/multimedia/todos-los-contenidos/s-100838?filter=&amp;type=18&amp;programs=294151&amp;sort=date&amp;results=250</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>get-rtmp</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests,urllib
+ import re
+ part_url= '[makelist.param1]'
+ url = 'http://www.dw.com/es' + urllib.quote(part_url)
+
+ source = requests.get(url).text
+ id= re.findall('media_id" value="(.*?)"', source)[0]
+ url2 = 'http://www.dw.com/smil/v-' + id
+ source2 = requests.get(url2).text
+ rtmp = re.findall('base="(.*?)"', source2)[0]
+ playpath = re.findall('video src="(.*?)"', source2)[0]
+ return rtmp + playpath
+
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>Cosmos Temporara 1 Capitulo 1</title>
+<utube>BArMiBS2USw</utube>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61kNSkMXbnL._SL1123_.jpg</thumbnail>
+<fanart>http://todoxmega.com/wp-content/uploads/2015/07/get.jpg</fanart>
+</item>
+
+<item>
+<title>Cosmos Temporara 1 Capitulo 2</title>
+<utube>pNeaylQGKnc</utube>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61kNSkMXbnL._SL1123_.jpg</thumbnail>
+<fanart>http://todoxmega.com/wp-content/uploads/2015/07/get.jpg</fanart>
+</item>
+
+<item>
+<title>Cosmos Temporara 1 Capitulo 3</title>
+<utube>39THpzuKQQc</utube>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61kNSkMXbnL._SL1123_.jpg</thumbnail>
+<fanart>http://todoxmega.com/wp-content/uploads/2015/07/get.jpg</fanart>
+</item>
+
+
+<item>
+<title>Cosmos Temporara 1 Capitulo 4</title>
+<utube>H8tKBKKoCUI</utube>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61kNSkMXbnL._SL1123_.jpg</thumbnail>
+<fanart>http://todoxmega.com/wp-content/uploads/2015/07/get.jpg</fanart>
+</item>
+
+
+<item>
+<title>Cosmos Temporara 1 Capitulo 5</title>
+<utube>Xs4cEP8M92U</utube>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61kNSkMXbnL._SL1123_.jpg</thumbnail>
+<fanart>http://todoxmega.com/wp-content/uploads/2015/07/get.jpg</fanart>
+</item>
+
+
+<item>
+<title>Cosmos Temporara 1 Capitulo 6</title>
+<utube>C4_tDEZvfgI</utube>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61kNSkMXbnL._SL1123_.jpg</thumbnail>
+<fanart>http://todoxmega.com/wp-content/uploads/2015/07/get.jpg</fanart>
+</item>
+
+
+<item>
+<title>Cosmos Temporara 1 Capitulo 7</title>
+<utube>iZeq7pEGx-8</utube>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61kNSkMXbnL._SL1123_.jpg</thumbnail>
+<fanart>http://todoxmega.com/wp-content/uploads/2015/07/get.jpg</fanart>
+</item>
+
+
+<item>
+<title>Cosmos Temporara 1 Capitulo 8</title>
+<utube>nBDsPGavKKw</utube>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61kNSkMXbnL._SL1123_.jpg</thumbnail>
+<fanart>http://todoxmega.com/wp-content/uploads/2015/07/get.jpg</fanart>
+</item>
+
+
+<item>
+<title>Cosmos Temporara 1 Capitulo 9</title>
+<utube>gz2qu4u_Xc4</utube>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61kNSkMXbnL._SL1123_.jpg</thumbnail>
+<fanart>http://todoxmega.com/wp-content/uploads/2015/07/get.jpg</fanart>
+</item>
+
+
+<item>
+<title>Cosmos Temporara 1 Capitulo 10</title>
+<utube>cvdqvb_4ALE</utube>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61kNSkMXbnL._SL1123_.jpg</thumbnail>
+<fanart>http://todoxmega.com/wp-content/uploads/2015/07/get.jpg</fanart>
+</item>
+
+
+<item>
+<title>Cosmos Temporara 1 Capitulo 11</title>
+<utube>4G9kwZW_wKo</utube>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61kNSkMXbnL._SL1123_.jpg</thumbnail>
+<fanart>http://todoxmega.com/wp-content/uploads/2015/07/get.jpg</fanart>
+</item>
+
+
+<item>
+<title>Cosmos Temporara 1 Capitulo 12</title>
+<utube>RHI57X2T39g</utube>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61kNSkMXbnL._SL1123_.jpg</thumbnail>
+<fanart>http://todoxmega.com/wp-content/uploads/2015/07/get.jpg</fanart>
+</item>
+
+
+<item>
+<title>Cosmos Temporara 1 Capitulo 13</title>
+<utube>wtLY8-Ga93s</utube>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61kNSkMXbnL._SL1123_.jpg</thumbnail>
+<fanart>http://todoxmega.com/wp-content/uploads/2015/07/get.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>LA PRUEBA QUE DIOS EXISTE</title>
+<utube>wtLY8-Ga93s</utube>
+<thumbnail>http://nuevotiempo.org/radio/files/Fondo_del_mar_by_JeDavid.jpg</thumbnail>
+<fanart>http://nuevotiempo.org/radio/files/Fondo_del_mar_by_JeDavid.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>ES FACIL DEJAR DE FUMAR, SI SABES COMO</title>
+<utube>v8560q41OPg</utube>
+<thumbnail>http://nuevotiempo.org/radio/files/Fondo_del_mar_by_JeDavid.jpg</thumbnail>
+<fanart>http://nuevotiempo.org/radio/files/Fondo_del_mar_by_JeDavid.jpg</fanart>
+</item>

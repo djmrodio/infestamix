@@ -1,0 +1,155 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<link>$doregex[makelist2]</link>
+
+<channel>
+<name>[COLOR lime]BACHATA MIX ESTRENO [/COLOR]</name>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descarga/bachatamix.jpg</thumbnail>
+<externallink>https://goo.gl/xKxmzi
+</externallink>
+<fanart>http://pasofinodance.com/wp-content/uploads/2014/12/fullwidth-slide3.jpg</fanart>
+<info>Estreno Bachata Mix para ti.... ejercitare bailando....para pedidos especiales +56 9 4408 4173</info>
+</channel>
+
+
+<channel>
+<name>[COLOR lime]SALSA MIX ESTRENO [/COLOR]</name>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descarga/salsamix.jpg</thumbnail>
+<externallink>https://goo.gl/yaTNNE</externallink>
+<fanart>http://www.westndance.info/wp-content/uploads/2016/01/background-img-4.jpg</fanart>
+<info>Estreno Salsa Mix para ti.... ejercitare bailando....para pedidos especiales +56 9 4408 4173</info>
+</channel>
+
+
+<channel>
+<name>ZUMBA MIX  </name>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descargas1/zumba.jpg</thumbnail>
+<externallink>https://goo.gl/YIqGD4</externallink>
+<fanart>http://images.launchbox-app.com/33462710-5764-44c8-97b8-3f5eb0eb2dcd.jpg</fanart>
+<info>Estreno ZUMBA para ti.... ejercitare bailando....para pedidos especiales +56 9 4408 4173</info>
+</channel>
+
+<channel>
+<name>Cumbia Mix Video</name>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descarga/PORTADA%20CUMBIA%20MIX.jpg</thumbnail>
+<externallink>https://goo.gl/de1pgq</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</fanart>
+<info>Las Mejores Cumbias Mezcladas.... para pedidos especiales +56 9 4408 4173</info>
+</channel>
+
+<channel>
+<name>Fiesta Mix Video</name>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descarga/bailable%20psd.jpg</thumbnail>
+<externallink>https://goo.gl/ZxRXiq</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</fanart>
+<info>Todos los Ritmos Mezclados.... para pedidos especiales +56 9 4408 4173</info>
+</channel>
+
+
+<channel>
+<name>Rock Latino Video</name>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descarga/ROCK%20LATINO%20PSD.jpg</thumbnail>
+<externallink>https://goo.gl/O6rLh3</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/rock%20latino%20mi%201.png</fanart>
+<info>Los Mejores Mix de Rock Latino....Gracias.....Totales.... para pedidos especiales +56 9 4408 4173</info>
+</channel
+
+<channel>
+<name>Elektro Mix Video</name>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descarga/elektro%20psd.jpg</thumbnail>
+<externallink>https://goo.gl/bVxGKR</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/ELEKTROMIX1.png</fanart>
+<info>La mejor Musica Electronica.... para pedidos especiales +56 9 4408 4173</info>
+</channel
+
+
+<channel>
+<name>EuroBeat Mix Video</name>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descarga/90%C2%B4S.jpg</thumbnail>
+<externallink>https://goo.gl/dzpJjO</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</fanart>
+<info>El mejor Euro Beat, uno de los mejores mezclados de la vieja escuela.... para pedidos especiales +56 9 4408 4173</info>
+</channel>
+
+<channel>
+<name>Merengue House Video</name>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descarga/MERENGUE%20HOUSE%20PSD.jpg</thumbnail>
+<externallink>https://goo.gl/62dCym</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</fanart>
+<info>El mejor Merengue House.... para pedidos especiales +56 9 4408 4173</info>
+</channel>
+
+<channel>
+<name>Rock Classico Video</name>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descarga/ROCK%20CLASSIC%20PSD.jpg</thumbnail>
+<externallink>https://goo.gl/obNlFv</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/rock%20classic.png</fanart>
+<info>El mejor Merengue House.... para pedidos especiales +56 9 4408 4173</info>
+</channel>
+
+
+<channel>
+<name>Reggaeton Video</name>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descarga/REGGAETON%20PSD.jpg</thumbnail>
+<externallink>https://goo.gl/8OpY5c</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</fanart>
+<info>El mejor Raggaeton Mix.... para pedidos especiales +56 9 4408 4173</info>
+</channel>
+
+
+
+<channel>
+<name>Kitsch Mix Video</name>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descarga/KITSCH%20PSD.jpg</thumbnail>
+<externallink>https://goo.gl/he3voj</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</fanart>
+<info>La Mejor Musica Kitsh muy buenos recuerdos.... para pedidos especiales +56 9 4408 4173</info>
+</channel>
+
+<channel>
+<name>Mix 80´s</name>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descarga/80psd.jpg</thumbnail>
+<externallink>https://goo.gl/PBBFtx</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</fanart>
+<info>La Mejor Musica de los 80´s.... para pedidos especiales +56 9 4408 4173</info>
+</channel>
+
+
+
+<channel>
+<name>Mix Rancheras</name>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descarga/RANCHERA%20PSD.jpg</thumbnail>
+<externallink>https://goo.gl/oHE2gO</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</fanart>
+<info>Un Excelente Mix Ranchero.... para pedidos especiales +56 9 4408 4173</info>
+</channel>
+
+
+
+
+<channel>
+<name>Mix Reggae</name>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descarga/REGGAEMIX.jpg</thumbnail>
+<externallink>https://goo.gl/u2byNn</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</fanart>
+<info>Un Excelente Mix Ranchero.... para pedidos especiales +56 9 4408 4173</info>
+</channel>
+
+
+
+<channel>
+<name>Mix Hip Hop</name>
+<thumbnail>http://pasteleriadulcesmomentos.cl/descargas1/hiphop.jpg</thumbnail>
+<externallink>https://goo.gl/zaBG7e</externallink>
+<fanart>http://pasteleriadulcesmomentos.cl/descarga/fiestamix.png</fanart>
+<info>Un Excelente Mix Hip Hop pero de la vieja escuela.... para pedidos especiales +56 9 4408 4173</info>
+</channel>
+
+
+
+
+
+
+</channels>
